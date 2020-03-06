@@ -1,4 +1,17 @@
 =====================
+     06-03-2020
+===================== 
+1. Mearged latest security patch 
+2. Goodix fingerprint fixed (Thanks to Zeelog and Moshe Barash & all mido community Dev's)
+3. Update some blobs from LA.UM.8.6.r1-02600-89xx.0
+4. Updated audio configure
+5. Fixed Mcast
+=====================
+	BUG
+===================== 
+1. Add some Bluetooth missing blobs but tested yet
+
+=====================
      12-02-2020
 ===================== 
 Source side changes:-
