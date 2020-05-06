@@ -242,3 +242,15 @@ Selinux is Permessive
 * About Us Section has been Improved
 * Gcam Add As prebuild Camera
 * Audio is loud but not better then stock or any custom audio mode
+
+=====================
+    06-05-2020
+=====================
+1. May security updates 
+2. Some source related fixes
+=====================
+	DEVICE 
+===================== 
+1. Initial official Build
+2. New Maintainer in the house
+3. Everything Working
