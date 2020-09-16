@@ -1,114 +1,17 @@
-================
-DEVICE - 24-08-2020
-================
-1. Updated Kernel to Bagual-Veio 1.2 4.4.233
-2. Full OC removed
-3. Some improvements
-================
+15-09-2020
+Device:
 
-================
-DEVICE - 17-08-2020
-================
-1. Updated to Firmware Global Q v11.0.1
-2. Fixed Greenish screencast
-3. Fixed CTS Profile false
-================
+Added XiaomiParts which fps info
+Blobs Updated to Open GL 0.490
+Kernel Uodated up to 4.4.236
 
 
-================
-05-08-2020
-================
-PixysOS Changelog
-1. August Security Patch Merged
-2. Added Screen off torch gesture
-3. Added Applock Support to Launcher
-4. Added Launcher icon size customization
-5. Added Launcher uninstall shortcut
-6. Removed duplicate theme picker
-7. Fixes minor & improvements on the launcher
-8. Added daily/monthly data usage
-9. Added ios like clipboard warnings
-10. Added battery estimates in QS
-11. Added smart space (requires gugal app)
-12. Fixed broken cts for some devices
-13. Improved qs detail layout
-14. Fixed wifi tile issues on some styles
-15. Fixed page indicator padding
 
-================
-DEVICE
-================
-1. Change for 24bit Audio
-2. Improve Sound Quality
-3. Improve Camera Image Quality
-4. Raise ADC Volume Level
-5. Kernel updated up  to Bagual-Veio-1.1_4.4.232
-6. Updated kernel blobs "LA.UM.8.2.r2-02300-sdm660.0"
-7. Update firmware from MIUI 20.5.13
-8. FM radio fixed
-9. Update Coral Fingerprint to August Patch
-10. Some other improvements
-================
+Changelog For PixysOS v3.1.3:
 
-================
-13-07-2020
-================
-DEVICE
-================
-
-1. Added LiveDisplay 
-2. Added Overclock painel up to 65hz
-3. Added Balanced Thermal
-4. Update blobs OpenGL-ES-3.2-V@454.0_treble
-5. Update blobs vulkan 1.1.128_treble
-
-=========================================
-07-07-2020
-=========================================
-
-PixysOS v3.1.1 release with below changes: 
-
-1. July security patch.
-
-2. Disabled statusbar privacy indicator by default.
-
-3. Disabled R notification headers by default.
-
-4. Fixed wifi QS icon on filled icon pack.
-
-5. Updated some lockcreen clock layouts.
-
-6. Add toggle to hide power menu from lock screen.
-
-7. Dual channel bluetooth audio.
-
-8. Livedisplay support Added.
-
-9. Added touch hal support.
-
-10. Fixed QS date info.
-
-11. Added battery health.
-
-12. Import powerusagefeaturefactory from pixel.
-
-13. Added iconshapes from android R beta.
-
-14. Permissions: Stop auto-granting location to system browsers.
-
-15. Upstreamed FOD.
-
-16. Fixed qs footer warning.
-
-=========================================
-DEVICE
-=========================================
-
-01. Lavender: props: enable zygote preforking
-
-02. Lavender: Fix screenrecord lag
-
-03. Lavender: Adding maximum CPU frequency settings
-
-04. Lavender Update build fingerprint to QQ3A.2000705.002/6506677
-
+1. September Security Patch Merged
+2. Added rounded corners
+3. Added theme options in Display Setting
+4. Improved screen record layout
+5. Improved notification media seekbar  
+6. Added Unspecialized App Process Pool(For supported devices)
