@@ -1,11 +1,16 @@
 
 ===============
-  26-08-2020
+  17-09-2020
 ===============
 
-===============
-  Device side
-===============
-1. Upstreamed kernel to 4.4.233.
-2. Fixed brightness while playing games.
-3. Fixed Heating issue.
+Changelog For PixysOS v3.1.3
+1. September Security Patch Merged
+2. Added rounded corners
+3. Added theme options in Display Setting
+4. Improved screen record layout
+5. Improved notification media seekbar
+6. Added Unspecialized App Process Pool(For supported devices)
+
+Device Side changes:-
+• Kernel Upstream to 4.4.236
+• Updated Gcam
