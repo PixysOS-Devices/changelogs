@@ -1,4 +1,22 @@
 =====================
+     18-09-2020
+=====================
+1. September Security Patch Merged
+2. Added rounded corners
+3. Added theme options in Display Setting
+4. Improved screen record layout
+5. Improved notification media seekbar  
+6. Added Unspecialized App Process Pool(For supported devices)
+=====================
+       Device
+=====================
+1. Kernel upstream to v4.14.198
+2. Addressed more sepolicy denies
+3. Adjust zram to 2GB and tuned it's performance
+4. Misc performance and stability improvements
+5. Dropped some unrequired stuff 
+
+=====================
      29-08-2020
 =====================
 =====================
