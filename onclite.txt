@@ -1,29 +1,16 @@
 ====================
-     09.08.2020
+     23.09.2020
 ====================
 
 SOURCE:
 
-• August Security Patch Merged
-• Added Screen off torch gesture
-• Added Applock Support to Launcher
-• Added Launcher icon size customization
-• Added Launcher uninstall shortcut
-• Removed duplicate theme picker
-• Fixes minor & improvements on the launcher
-• Added daily/monthly data usage
-• Added ios like clipboard warnings
-• Added battery estimates in QS
-• Added smart space (requires gugal app)
-• Fixed broken cts for some devices
-• Improved qs detail layout
-• Fixed wifi tile issues on some styles
-• Fixed page indicator padding
+• September Security Patch Merged
+• Added rounded corners
+• Added theme options in Display Setting
+• Improved screen record layout
+• Improved notification media seekbar  
+• Added Unspecialized App Process Pool(For supported devices)
 
 DEVICE:
 
-• Rebased kernel.
-• Enabled LiveDisplay.
-• Updated OpenGL and Vulkan.
-• Added Moto Dolby.
-• Few other improvements.
+• Fixed brightness issue
